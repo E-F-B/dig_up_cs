@@ -8,3 +8,15 @@
 #### 開発環境
 
 Unity2020.3.17f1
+
+#### 主な使用ライブラリ
+
+- UniTask
+- VContainer
+- MessagePipe
+- Rewired
+- NCMB
+
+#### 開発期間
+
+- 8/7~8/13
